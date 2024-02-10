@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/BuildForBharat/static/css/main.4161a350.css",
+    "main.css": "/BuildForBharat/static/css/main.53856fac.css",
     "main.js": "/BuildForBharat/static/js/main.ef0f6c7e.js",
     "static/js/592.77751a5b.chunk.js": "/BuildForBharat/static/js/592.77751a5b.chunk.js",
     "static/media/white-concrete-textures.jpg": "/BuildForBharat/static/media/white-concrete-textures.b7e3daa9a3b9dc6b7b0d.jpg",
     "static/media/sl_092619_23740_46.jpg": "/BuildForBharat/static/media/sl_092619_23740_46.0ffadb6e27da9b360c9d.jpg",
     "index.html": "/BuildForBharat/index.html",
-    "main.4161a350.css.map": "/BuildForBharat/static/css/main.4161a350.css.map",
+    "main.53856fac.css.map": "/BuildForBharat/static/css/main.53856fac.css.map",
     "main.ef0f6c7e.js.map": "/BuildForBharat/static/js/main.ef0f6c7e.js.map",
     "592.77751a5b.chunk.js.map": "/BuildForBharat/static/js/592.77751a5b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4161a350.css",
+    "static/css/main.53856fac.css",
     "static/js/main.ef0f6c7e.js"
   ]
 }
