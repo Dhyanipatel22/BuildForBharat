@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/BuildForBharat/static/css/main.4161a350.css",
-    "main.js": "/BuildForBharat/static/js/main.ef0f6c7e.js",
-    "static/js/592.77751a5b.chunk.js": "/BuildForBharat/static/js/592.77751a5b.chunk.js",
-    "static/media/white-concrete-textures.jpg": "/BuildForBharat/static/media/white-concrete-textures.b7e3daa9a3b9dc6b7b0d.jpg",
-    "static/media/sl_092619_23740_46.jpg": "/BuildForBharat/static/media/sl_092619_23740_46.0ffadb6e27da9b360c9d.jpg",
-    "index.html": "/BuildForBharat/index.html",
-    "main.4161a350.css.map": "/BuildForBharat/static/css/main.4161a350.css.map",
-    "main.ef0f6c7e.js.map": "/BuildForBharat/static/js/main.ef0f6c7e.js.map",
-    "592.77751a5b.chunk.js.map": "/BuildForBharat/static/js/592.77751a5b.chunk.js.map"
+    "main.css": "/my-react-app/static/css/main.d42cd507.css",
+    "main.js": "/my-react-app/static/js/main.ed207ddd.js",
+    "static/js/592.77751a5b.chunk.js": "/my-react-app/static/js/592.77751a5b.chunk.js",
+    "static/media/white-concrete-textures.jpg": "/my-react-app/static/media/white-concrete-textures.b7e3daa9a3b9dc6b7b0d.jpg",
+    "static/media/sl_092619_23740_46.jpg": "/my-react-app/static/media/sl_092619_23740_46.0ffadb6e27da9b360c9d.jpg",
+    "index.html": "/my-react-app/index.html",
+    "main.d42cd507.css.map": "/my-react-app/static/css/main.d42cd507.css.map",
+    "main.ed207ddd.js.map": "/my-react-app/static/js/main.ed207ddd.js.map",
+    "592.77751a5b.chunk.js.map": "/my-react-app/static/js/592.77751a5b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4161a350.css",
-    "static/js/main.ef0f6c7e.js"
+    "static/css/main.d42cd507.css",
+    "static/js/main.ed207ddd.js"
   ]
 }
